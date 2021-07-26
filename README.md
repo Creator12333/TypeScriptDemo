@@ -15,14 +15,8 @@
         管理模板: todoView -> 接受参数
 # 项目启动
 ## 安装依赖
-    ```shell
     npm install
-    ```
 ## 启动前端服务
-    ```shell
     npm run dev
-    ```
 ## 启动后端服务
-    ```shell
     npm run server
-    ```
